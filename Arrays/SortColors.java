@@ -1,4 +1,4 @@
-package array;
+package Arrays;
 
 public class SortColors {
     public int[] solution(int arr[]){

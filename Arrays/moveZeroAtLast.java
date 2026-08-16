@@ -1,4 +1,5 @@
-package array;
+package Arrays;
+
 
 public class moveZeroAtLast {
     public int[] Solution(int arr[]){

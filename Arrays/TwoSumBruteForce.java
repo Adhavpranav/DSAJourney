@@ -1,4 +1,5 @@
-package array;
+package Arrays;
+
 
 public class TwoSumBruteForce {
     public int[] solution(int arr[],int target){

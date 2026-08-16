@@ -1,4 +1,5 @@
-package array;
+package Arrays;
+
 
 public class SetMatrixZeros {
     public int[][] solution(int arr[][]){

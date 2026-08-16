@@ -1,4 +1,5 @@
-package array;
+package Arrays;
+
 
 public class LinearSearch {
     public boolean Solution(int arr[],int key){

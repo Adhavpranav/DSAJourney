@@ -1,4 +1,5 @@
-package array;
+package Arrays;
+
 
 public class isSorted {
     public boolean isSortedArray(int arr[]){

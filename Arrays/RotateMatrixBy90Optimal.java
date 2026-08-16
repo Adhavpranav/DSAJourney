@@ -1,4 +1,5 @@
-package array;
+package Arrays;
+
 
 public class RotateMatrixBy90Optimal {
 

@@ -1,4 +1,5 @@
-package array;
+package Arrays;
+
 
 public class secoendLargest {
      public int secondLargestElement(int[] nums) {

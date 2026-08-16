@@ -1,4 +1,6 @@
-public void solution(int num){
+public class InverteRightAlignedHalfPyramid {
+
+    public void solution(int num){
       for(int i=num;i>0;i--){
          for(int k=i;k<num;k++){
             System.out.print(" ");
@@ -8,4 +10,6 @@ public void solution(int num){
         }
         System.out.println();
       }
+}
+
 }

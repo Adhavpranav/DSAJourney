@@ -1,4 +1,5 @@
-package array;
+package Arrays;
+
 import java.util.*;
 public class LongestConsicativeBetter {
     public int solution(int arr[]){

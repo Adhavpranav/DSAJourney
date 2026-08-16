@@ -1,4 +1,4 @@
-package array;
+package Recursion;
 
 public class TowerOfHanoi {
 

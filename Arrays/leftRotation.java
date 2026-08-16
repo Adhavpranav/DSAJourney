@@ -1,4 +1,5 @@
-package array;
+package Arrays;
+
 
 public class leftRotation {
     public int[] leftRotationByOne(int arr[]){

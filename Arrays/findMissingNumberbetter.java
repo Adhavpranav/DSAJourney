@@ -1,4 +1,4 @@
-package array;
+package Arrays;
 
 public class findMissingNumberbetter {
  public int solution(int arr[],int limit){

@@ -1,4 +1,4 @@
-package array;
+package Arrays;
 
 public class BestTimeToBuyAndSellStock {
     public int solution(int arr[]){

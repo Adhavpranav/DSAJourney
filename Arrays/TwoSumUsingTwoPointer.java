@@ -1,8 +1,8 @@
-package array;
+package Arrays;
 
 import java.util.*;
 
-public class twoSumUsingTwoPointer {
+public class TwoSumUsingTwoPointer {
     public boolean solution(int arr[],int target){
 
         Arrays.sort(arr);

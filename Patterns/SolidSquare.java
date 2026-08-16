@@ -1,4 +1,3 @@
-package patterns;
 
 public class SolidSquare {
     public void solution(int num){

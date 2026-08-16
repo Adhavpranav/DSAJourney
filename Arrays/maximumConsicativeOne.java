@@ -1,4 +1,5 @@
-package array;
+package Arrays;
+
 
 public class maximumConsicativeOne {
     public int solution(int arr[]){

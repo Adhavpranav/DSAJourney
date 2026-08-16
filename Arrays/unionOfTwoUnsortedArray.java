@@ -1,4 +1,4 @@
-package array;
+package Arrays;
 import java.util.*;
 public class unionOfTwoUnsortedArray {
     public int[] Solution(int arr1[],int arr2[]){

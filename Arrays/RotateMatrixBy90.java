@@ -1,6 +1,6 @@
-package array;
+package Arrays;
 
-public class rotateMatrixBy90 {
+public class RotateMatrixBy90 {
     public int[][] solution(int arr[][]){
         int result[][]=new int[arr.length][arr[0].length];
 

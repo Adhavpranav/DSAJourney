@@ -1,4 +1,5 @@
-package array;
+package Arrays;
+
 
 public class LeftRotateArrayByDUsingReversal {
     public int[] Solution(int arr[],int rotations){
